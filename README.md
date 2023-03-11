@@ -1,16 +1,6 @@
-# life_quotes_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-03-11-21-45-17-38_f5f761803e6f988507dff25c807eb0c7](https://user-images.githubusercontent.com/121867953/224495692-60087321-0774-4664-9c7a-c5f653e24dfa.jpg)
+![Screenshot_2023-03-11-21-45-25-45_f5f761803e6f988507dff25c807eb0c7](https://user-images.githubusercontent.com/121867953/224495693-743d0579-5aa0-46ac-9e8c-97d87cbac02b.jpg)
+![Screenshot_2023-03-11-21-45-33-76_f5f761803e6f988507dff25c807eb0c7](https://user-images.githubusercontent.com/121867953/224495698-cd3fdeb1-8a91-404a-98bb-284b416c0558.jpg)
+![Screenshot_2023-03-11-21-45-13-86_f5f761803e6f988507dff25c807eb0c7](https://user-images.githubusercontent.com/121867953/224495706-432a5e77-6d80-432c-a32e-231f194180fb.jpg)
+![Screenshot_2023-03-11-21-46-38-51_f5f761803e6f988507dff25c807eb0c7](https://user-images.githubusercontent.com/121867953/224495715-f384ec1f-e079-455f-9eea-0f0cf5966ffb.jpg)
+![Screenshot_2023-03-11-21-47-05-27_f5f761803e6f988507dff25c807eb0c7](https://user-images.githubusercontent.com/121867953/224495723-73705191-43a3-4a7b-8a40-395883992274.jpg)
